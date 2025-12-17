@@ -30,6 +30,7 @@ jobs:
         run: |
           echo Hello, world!
           pwd
+          ls -l
 
       # Runs a set of commands using the runners shell
       - name: Coverity Scan
