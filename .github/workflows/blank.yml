@@ -39,3 +39,5 @@ jobs:
           coverity_project_name: Test
           coverity_stream_name: Test
           coverity_policy_view: 'Outstanding Issues'
+
+          coverity_config_path: coverity.yaml
