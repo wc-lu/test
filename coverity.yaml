@@ -1,0 +1,2 @@
+analyze:
+  cov-analyze-args: [--strip-path, /user/local]
