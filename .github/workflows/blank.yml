@@ -33,7 +33,7 @@ jobs:
       - name: Coverity Scan
         uses: blackduck-inc/black-duck-security-scan@v2.1.0 
         with:
-          coverity_url: http://localhost:8080
+          coverity_url: http://BD-88909:8080
           coverity_user: admin
           coverity_passphrase: coverity
           coverity_project_name: Test
